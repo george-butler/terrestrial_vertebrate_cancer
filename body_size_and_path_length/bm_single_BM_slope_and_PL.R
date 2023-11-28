@@ -1,5 +1,4 @@
 library(MCMCglmm)
-library(ggplot2)
 library(ape)
 library(pbmcapply)
 ##########################################################################

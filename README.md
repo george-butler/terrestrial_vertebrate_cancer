@@ -9,3 +9,9 @@
 <p align="center">
   <img width="380" height="355" src="/example_image/exceptional_birds_and_mammals.png">
 </p>
+
+Code and ulities for the manuscript "No evidence for Peto's Paradox in terrestrial vertebrates".
+
+All code is written in R and the majority work is performed with the [MCMCglmm] (https://cran.r-project.org/web/packages/MCMCglmm/index.html) library. Large sections of the code are designed to run on a UNIX machine and take advantage of multiple threads where possible. If you wish to run this code on a Windows machine please change the "pbmclapply" function to "lapply" with the understanding that this will increase the run time considerably.  
+
+

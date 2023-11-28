@@ -6,8 +6,6 @@
 
 <sup><sup>2</sup>School of Biological Sciences, University of Reading, Reading, UK</sup>
 
-![exceptionl_b_and_m](/example_image/exceptional_birds_and_mammals.png)
-
 <p align="center">
-  <img width="460" height="300" src="/example_image/exceptional_birds_and_mammals.png">
+  <img width="380" height="355" src="/example_image/exceptional_birds_and_mammals.png">
 </p>

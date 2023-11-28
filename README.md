@@ -5,3 +5,5 @@
 <sup><sup>1</sup>Cancer Ecology Center, The Brady Urological Institute, Johns Hopkins School of Medicine, Baltimore, USA</sup>
 
 <sup><sup>2</sup>School of Biological Sciences, University of Reading, Reading, UK</sup>
+
+![exceptionl_b_and_m](/example_images/exceptional_birds_and_mammals.jpg)

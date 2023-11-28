@@ -6,4 +6,4 @@
 
 <sup><sup>2</sup>School of Biological Sciences, University of Reading, Reading, UK</sup>
 
-![exceptionl_b_and_m](/example_images/exceptional_birds_and_mammals.png)
+![exceptionl_b_and_m](/example_image/exceptional_birds_and_mammals.png)

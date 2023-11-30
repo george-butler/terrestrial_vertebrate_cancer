@@ -1,6 +1,8 @@
 library(adephylo)
 library(pbmcapply)
 
+#this script is designed to work with a posterior distribution of rate scaled tree from Cooney & Thomas "Heterogeneous relationships between rates of speciation and body size evolution across vertebrate clades"
+
 path_measure<-function(t,tip_ids){
   opt<-lapply(c("patristic","nNodes"), function(e) distRoot(t,tips = tip_ids, method=e))
   names(opt)<- c("path_length","no_nodes")

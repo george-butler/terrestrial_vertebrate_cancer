@@ -182,3 +182,31 @@ output<-as.data.frame(cbind(class_vec,growth,rbind(neo_amphib,mal_amphib,neo_rep
 colnames(output)<-c("class","growth","intercept","records","bm_slope")
 output[3:5]<-lapply(output[3:5],as.numeric)
 write.csv(output,'~/results/svl_single_slope_parameter_estimates_svl_only.csv',row.names=FALSE)
+#########################################################################
+pr1<- list(R=list(V=diag(2), nu=2, fix=2),B=list(mu=(rep(0,4)),V=diag(4)*1e8),
+           G=list(G1=list(V=diag(2), nu=2, alpha.mu=cbind(0,0), alpha.V=diag(2)*25^2)))
+
+null_mod<-MCMCglmm(cbind(neo,mal) ~ trait+trait:reptile, family=cbind("poisson","poisson"), pr=TRUE,prior = pr1, data=filtered_data, pl=TRUE, 
+                   rcov = ~ us(trait):units, random = ~us(trait):Species,nitt=number_iterations,thin=sample_interval,burnin=burnin_iterations, verbose=TRUE, DIC=TRUE, ginverse=list(Species=treeAinv))
+
+saveRDS(null_mod,'~/results/svl_intercept.rds')
+
+r_squared_calc<-function(null_model,alt_model){
+  #this function is based off of the code from Nakagawa at https://github.com/itchyshin/R2/blob/master/R/R_code_lmer_MCMCglmm.R
+  #null model is intercept only model
+  #alt model is model of interest
+  mVdis <- log(1 + 1/exp(null_model$Sol[,1] + 0.5*(rowSums(alt_model$VCV))))
+  vmVarF1<-numeric(nrow(alt_model$Sol))
+  for(i in 1:nrow(alt_model$Sol)){
+    Var<-var(as.vector(alt_model$Sol[i,c(1:alt_model$Fixed$nfl)] %*% t(alt_model$X)))
+    vmVarF1[i]<-Var
+  }
+  R2m<-vmVarF1/(vmVarF1+alt_model$VCV[,1]+alt_model$VCV[,2]+alt_model$VCV[,3] + mean(mVdis))
+  R2c<-(vmVarF1+alt_model$VCV[,1]+alt_model$VCV[,2])/(vmVarF1+alt_model$VCV[,1]+alt_model$VCV[,2]+alt_model$VCV[,3]+ mVdis)
+  return(c(mean(R2m),mean(R2c)))#returns marginal rsquared first and then conditional rsquared
+}
+
+r_squared_calc(null_mod,mod1)
+
+
+

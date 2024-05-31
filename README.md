@@ -1,4 +1,4 @@
-# Resolving Peto's Paradox
+# No evidence for Peto’s Paradox in terrestrial vertebrates
 
 ### George Butler<sup>1,</sup>, Joanna Baker<sup>2</sup>, Sarah R. Amend<sup>1</sup>, Kenneth J. Pienta<sup>1</sup>, Chris Venditti<sup>2</sup>
 

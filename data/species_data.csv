@@ -1,0 +1,264 @@
+Species,Class,therm,common_name,rec,neo,mal,log_bm,log_pl,log_rec
+Acinonyx_jubatus,Mammalia,endothermic,Cheetah,79,12,3,10.7514994446561,5.84334995514342,4.36944785246702
+Acrantophis_dumerili,Reptilia,ectothermic,Dumerils boa,22,4,2,7.44307837353573,5.14146119311863,3.09104245335832
+Acrobates_pygmaeus,Mammalia,endothermic,Feathertail glider,43,0,0,2.48490664967834,5.50477618649953,3.76120011569356
+Acryllium_vulturinum,Aves,endothermic,Vulturine guineafowl,39,5,4,7.19293422129159,4.53737024783279,3.66356164612965
+Addax_nasomaculatus,Mammalia,endothermic,Addax,30,5,4,11.1562548061095,6.27720456892003,3.40119738166216
+Aepyceros_melampus,Mammalia,endothermic,Impala,25,2,2,10.8685703541854,6.26539692449997,3.2188758248682
+Agalychnis_callidryas,Amphibia,ectothermic,Green tree frog,73,2,1,4.34510328045195,5.17648092070126,4.29045944114839
+Agama_agama,Reptilia,ectothermic,Red headed rock agama,20,0,0,5.01063529396805,4.62469183454874,2.99573227355399
+Agapornis_fischeri,Aves,endothermic,Fischer's lovebird,28,4,2,3.87743156123069,4.6934733469828,3.3322045101752
+Agapornis_nigrigenis,Aves,endothermic,Black-cheeked lovebird,108,2,0,3.7013019736182,4.70340285768706,4.68213122712422
+Agkistrodon_contortrix,Reptilia,ectothermic,Copperhead,21,2,1,7.20785987029268,5.08366406357558,3.04452243772342
+Ailurus_fulgens,Mammalia,endothermic,Red panda,38,2,1,8.49699048403306,5.52551850285694,3.63758615972639
+Aix_galericulata,Aves,endothermic,Mandarin duck,32,1,1,6.34042984827384,4.96998605213536,3.46573590279973
+Aix_sponsa,Aves,endothermic,Wood duck,33,5,3,6.48858163624505,4.96661696072323,3.49650756146648
+Alytes_cisternasii,Amphibia,ectothermic,Iberian midwife toad,26,0,0,3.91202300465443,4.36845325239226,3.25809653802148
+Alytes_muletensis,Amphibia,ectothermic,Mallorcan midwife toad,216,0,0,3.68887945335877,4.54252765426318,5.37527840768417
+Ambystoma_mexicanum,Amphibia,ectothermic,Axolotl,73,5,5,5.7037824753017,5.06844206053915,4.29045944114839
+Ambystoma_tigrinum,Amphibia,ectothermic,Tiger salamander,20,4,2,5.7990926547417,5.06696441247861,2.99573227355399
+Anas_acuta,Aves,endothermic,Northern pintail,23,1,1,6.85078272917776,4.95464884228234,3.13549421592915
+Anas_platyrhynchos,Aves,endothermic,Aylesbury duck,33,7,4,6.73746505407323,4.94673927631683,3.49650756146648
+Anaxyrus_baxteri,Amphibia,ectothermic,Wyoming toad,200,5,2,4.20469262007984,5.5271657406729,5.29831736654804
+Anolis_equestris,Reptilia,ectothermic,Knight anole,20,4,3,5.2470240722691,4.98335153333908,2.99573227355399
+Anomaloglossus_beebei,Amphibia,ectothermic,Beebe's rocket frog,42,0,0,2.92316158021738,4.84963575510853,3.73766961828337
+Anthracoceros_malayanus,Aves,endothermic,Black hornbill,22,0,0,6.95654544299053,5.40684631396915,3.09104245335832
+Antilocapra_americana,Mammalia,endothermic,Peninsular pronghorn,38,3,2,10.738197226367,6.27814581800053,3.63758615972639
+Artibeus_jamaicensis,Mammalia,endothermic,Jamaican fruit bat,80,5,3,3.74242022113022,6.22099873813638,4.38202663467388
+Ascaphus_truei,Amphibia,ectothermic,Coastal tailed frog,39,0,0,3.90197266972761,4.39318106635981,3.66356164612965
+Atelerix_albiventris,Mammalia,endothermic,Four-toed hedgehog,147,66,52,6.39692965433277,5.6058567260933,4.99043258677874
+Atelopus_zeteki,Amphibia,ectothermic,Panamanian golden frog,137,1,1,4.14313472534712,5.10068628345254,4.91998092582813
+Atheris_ceratophora,Reptilia,ectothermic,Atheris ceratophora,44,1,1,6.30991827708848,5.08728460928485,3.78418963391826
+Basiliscus_plumifrons,Reptilia,ectothermic,Plumed basilik,22,0,0,5.52146091861741,4.67258074023487,3.09104245335832
+Bitis_arietans,Reptilia,ectothermic,Puff adder,83,2,1,7.5229409171444,5.11231658878612,4.4188406077966
+Bitis_gabonica,Reptilia,ectothermic,Gaboon viper,35,4,3,7.49554194364639,5.18597933838033,3.55534806148941
+Bitis_nasicornis,Reptilia,ectothermic,Rhinoceros viper,32,3,3,7.09007683566643,5.15986894149602,3.46573590279973
+Boa_constrictor,Reptilia,ectothermic,Boa constrictor,55,11,7,8.4118326762757,5.26562793205022,4.00733318523247
+Boiga_dendrophila,Reptilia,ectothermic,Mangrove snake,68,1,1,7.82404601161145,5.14557075627696,4.21950770517611
+Bothriechis_schlegelii,Reptilia,ectothermic,Bothriechis schlegelii,25,2,2,6.70930433937476,5.05810326717839,3.2188758248682
+Branta_ruficollis,Aves,endothermic,Red-breasted goose,23,0,0,7.11189540439075,5.31077983686659,3.13549421592915
+Bubulcus_ibis,Aves,endothermic,Cattle egret,30,0,0,5.90249671090929,5.32783711042633,3.40119738166216
+Bufo_bufo,Amphibia,ectothermic,Common toad,38,0,0,5.01063529396805,5.64163183708142,3.63758615972639
+Cacatua_moluccensis,Aves,endothermic,Salmon-crested cockatoo,20,1,0,6.72741974799225,4.7393340569379,2.99573227355399
+Callipepla_gambelii,Aves,endothermic,Gambel's quail,25,1,0,5.11168653875401,4.53737024776537,3.2188758248682
+Callithrix_jacchus,Mammalia,endothermic,Common marmoset,47,8,4,5.67675380123576,5.29950898957972,3.85014760171006
+Calumma_parsonii,Reptilia,ectothermic,Parsons chameleon,33,0,0,5.7037824753017,4.87448804928083,3.49650756146648
+Canis_lupus,Mammalia,endothermic,Gray wolf,36,12,9,10.3792029644166,5.56673661794263,3.58351893845611
+Capra_nubiana,Mammalia,endothermic,Nubian ibex,35,1,0,11.0449166449888,6.25863377020994,3.55534806148941
+Carollia_perspicillata,Mammalia,endothermic,Seba short-tailed bat,219,14,9,2.89037175765829,6.18936777292036,5.3890717298165
+Cavia_fulgida,Mammalia,endothermic,Guinea pig,109,17,12,5.64367855022854,5.46682495485845,4.69134788222914
+Cebuella_pygmaea,Mammalia,endothermic,Pygmy marmoset,64,2,0,4.24849524201653,5.51145705428041,4.15888308335967
+Ceratophrys_ornata,Amphibia,ectothermic,Bell'shorned frog,27,0,0,4.80974235234546,5.60297866575915,3.29583686600433
+Cercopithecus_mitis,Mammalia,endothermic,Stuhlmans blue monkey,40,4,4,8.51719319064252,5.43680574782974,3.68887945411394
+Chamaeleo_calyptratus,Reptilia,ectothermic,Veiled chameleon,87,4,0,5.47646355205093,4.74441469096604,4.46590811865458
+Chinchilla_lanigera,Mammalia,endothermic,Chinchilla,40,4,3,6.03308622185923,5.46651217044183,3.68887945411394
+Chlamydosaurus_kingii,Reptilia,ectothermic,Frilled dragon,32,0,0,5.66988092321318,4.93352291899172,3.46573590279973
+Choloepus_didactylus,Mammalia,endothermic,Linnes two-toed sloth,20,1,1,8.54869185933399,5.38376084837468,2.99573227355399
+Chrotopterus_auritus,Mammalia,endothermic,Vampire bat,48,1,0,4.35542595363065,6.32419310722452,3.87120101090789
+Ciconia_ciconia,Aves,endothermic,Abdims stork,41,0,0,8.14491137787011,5.18817750796135,3.71357206670431
+Colinus_virginianus,Aves,endothermic,Northern bobwhite,30,3,3,5.14685473829702,4.5373702477643,3.40119738166216
+Colobus_guereza,Mammalia,endothermic,Colobus monkey,34,4,2,9.71099443980391,5.44135188665579,3.52636052461616
+Columba_livia,Aves,endothermic,Domestic pigeon,55,1,0,5.86986172568478,4.56349665266051,4.00733318523247
+Copsychus_malabaricus,Aves,endothermic,Common shama,59,0,0,3.37519557830013,5.42428524527769,4.07753744390572
+Corallus_caninus,Reptilia,ectothermic,Emerald tree boa,54,3,2,7.57301725683145,5.20172783204753,3.98898404656427
+Cossypha_polioptera,Aves,endothermic,Grey_winged robin_chat,22,0,0,2.92905814143727,5.39608992883689,3.09104245335832
+Crex_crex,Aves,endothermic,Corncrake,47,0,0,5.04284430325294,5.60820547011429,3.85014760171006
+Crotalus_atrox,Reptilia,ectothermic,Western diamond back rattlesnake,27,1,1,7.75662333363572,5.2285669751823,3.29583686600433
+Crotalus_durissus,Reptilia,ectothermic,Tropical rattlesnake,30,5,4,7.49554194364639,5.13161526579858,3.40119738166216
+Crotalus_horridus,Reptilia,ectothermic,Timber rattlesnake,26,4,3,7.54538974946037,5.15075283227625,3.25809653802148
+Crotalus_lepidus,Reptilia,ectothermic,Rock rattlesnake,49,2,2,6.73340189169487,5.08405819205647,3.89182029811063
+Crotalus_polystictus,Reptilia,ectothermic,Crotalus polystictus,33,0,0,6.90775527898214,5.08200124254866,3.49650756146648
+Crotaphytus_collaris,Reptilia,ectothermic,Eastern collared lizard,28,1,1,4.87519732399378,4.59144087477903,3.3322045101752
+Ctenosaura_bakeri,Reptilia,ectothermic,Bakers spiny tail iguana,80,0,0,5.7525726393101,4.93305976806615,4.38202663467388
+Cygnus_cygnus,Aves,endothermic,Whooper swan,29,0,0,9.1431305518742,5.3759348378992,3.36729582998647
+Cynomys_ludovicianus,Mammalia,endothermic,Gunnison prairie dog,137,29,23,7.21817683766552,5.51202866373829,4.91998092582813
+Dasyprocta_punctata,Mammalia,endothermic,Red-rumped agouti,32,5,4,7.89170465850752,5.42026542415567,3.46573590279973
+Dasypus_novemcinctus,Mammalia,endothermic,Nine-banded armadillo,78,4,2,8.34374415746604,5.90251994915476,4.35670882668959
+Delphinus_delphis,Mammalia,endothermic,Common dolphin,31,0,0,11.2897819136746,6.393077725987,3.43398720448515
+Dendrobates_tinctorius,Amphibia,ectothermic,Dyeing poison dart frog,267,2,1,4.00733318409443,5.21555232115385,5.58724865840025
+Dendrocygna_viduata,Aves,endothermic,White faced tree duck,84,2,1,6.53667710572572,4.53737024774825,4.43081679884331
+Dendrolagus_goodfellowi,Mammalia,endothermic,Goodfellows tree kangaroo,24,2,1,8.99031694782112,5.49028536890954,3.17805383034795
+Dendropsophus_ebraccatus,Amphibia,ectothermic,Hourglass treefrog,22,1,0,3.60413822469127,5.03570472270499,3.09104245335832
+Didelphis_marsupialis,Mammalia,endothermic,Opossum,96,34,27,6.99503328636986,5.76739641534378,4.56434819146784
+Dyscophus_antongilii,Amphibia,ectothermic,Tamato frog,54,4,2,4.70048036542809,5.51440020477003,3.98898404656427
+Egretta_garzetta,Aves,endothermic,Little egret,28,0,0,5.74300318776702,5.25521264701583,3.3322045101752
+Eidolon_helvum,Mammalia,endothermic,Straw-colored fruit bat,31,1,1,5.53457455748991,6.35719611282054,3.43398720448515
+Elephas_maximus,Mammalia,endothermic,Asian elephant,22,9,1,14.9660825864418,6.94068392161034,3.09104245335832
+Elgaria_kingii,Reptilia,ectothermic,Elgaria kingii,22,1,1,4.94164242335019,4.80680038155003,3.09104245335832
+Eos_bornea,Aves,endothermic,Red lory,60,1,0,5.04985600643336,5.23651267532657,4.0943445622221
+Equus_grevyi,Mammalia,endothermic,Grevys zebra,21,3,2,12.9190219627287,6.48168319054316,3.04452243772342
+Erpeton_tentaculatum,Reptilia,ectothermic,Tentacled snake,56,0,0,6.64639051445057,5.08779688267942,4.02535169073515
+Eublepharis_macularius,Reptilia,ectothermic,Leopard gecko,38,7,6,5.13579843617925,5.02763696252387,3.63758615972639
+Eudocimus_ruber,Aves,endothermic,Scarlet ibis,105,3,0,6.49236103954948,5.17973740329519,4.65396035015752
+Eudorcas_thomsonii,Mammalia,endothermic,Thompsons gazelle,29,6,4,9.92817040894508,6.23341305407222,3.36729582998647
+Eudromia_elegans,Aves,endothermic,Elegant crested tinamou,22,0,0,6.5552146334528,4.53737024787667,3.09104245335832
+Eudyptes_chrysocome,Aves,endothermic,Rockhopper penguin,29,2,2,7.75270037336109,5.29117526191487,3.36729582998647
+Euplectes_nigroventris,Aves,endothermic,Zanzibar bishop,31,1,0,2.5257286442897,5.43270840394572,3.43398720448515
+Eurypyga_helias,Aves,endothermic,Sun bittern,21,0,0,5.34710753133014,4.53737024782851,3.04452243772342
+Fringilla_coelebs,Aves,endothermic,Chaffinch,45,0,0,3.1701056595665,5.29363083314029,3.80666248977032
+Furcifer_pardalis,Reptilia,ectothermic,Reunion chameleon,41,4,4,5.52146091861741,4.88286469399802,3.71357206670431
+Gallicolumba_luzonica,Aves,endothermic,Bleeding heart dove,20,0,0,5.2781146584097,4.53737024798796,2.99573227355399
+Gallus_gallus,Aves,endothermic,Domestic chicken,272,70,62,6.62236391398752,4.58214738097637,5.605802066296
+Gazella_spekei,Mammalia,endothermic,Speke's gazelle,22,2,1,9.90348755330984,6.23291854270567,3.09104245335832
+Geotrypetes_seraphini,Amphibia,ectothermic,Gaboon caecilian,23,1,0,5.99146454635282,5.76093612761741,3.13549421592915
+Giraffa_camelopardalis,Mammalia,endothermic,Baringo giraffe,30,3,2,13.7101442641089,6.42186445561912,3.40119738166216
+Gonocephalus_chamaeleontinus,Reptilia,ectothermic,Chameleon forest dragon,40,0,0,5.13579843617925,4.66821552036698,3.68887945411394
+Gorilla_gorilla,Mammalia,endothermic,Gorilla,40,9,6,11.7031325167338,5.6883947150271,3.68887945411394
+Haliaeetus_leucocephalus,Aves,endothermic,Bald eagle,20,1,0,8.4554411833813,5.52861841184753,2.99573227355399
+Heloderma_horridum,Reptilia,ectothermic,Mexican beaded lizard,33,4,4,6.25382881241638,4.86178261227564,3.49650756146648
+Heloderma_suspectum,Reptilia,ectothermic,Gila monster,63,11,10,5.8916442129007,4.85750441594923,4.14313472639153
+Heterocephalus_glaber,Mammalia,endothermic,Naked mole rat,145,2,1,4.00733318409443,5.39350190946856,4.97673374242057
+Hydrochoerus_hydrochaeris,Mammalia,endothermic,Capybara,55,10,8,11.0421151104294,6.0673085078219,4.00733318523247
+Hydrodynastes_gigas,Reptilia,ectothermic,Boipevassu cobra,33,1,1,7.91935619105145,5.47292356866897,3.49650756146648
+Iguana_iguana,Reptilia,ectothermic,Green iguana,32,1,0,6.36302810454684,4.91798181257372,3.46573590279973
+Incilius_coniferus,Amphibia,ectothermic,Green climbing toad,20,0,0,4.54859983562966,5.49461611355586,2.99573227355399
+Lampropeltis_getula,Reptilia,ectothermic,Lampropeltis getula,33,11,11,7.64156444138129,5.17417570689538,3.49650756146648
+Lampropeltis_triangulum,Reptilia,ectothermic,Milk snake,46,18,16,7.54960916526315,5.16345919666255,3.8286413964891
+Lamprotornis_splendidus,Aves,endothermic,Splendid glossy_starling,23,0,0,4.81291579584389,5.36511762743271,3.13549421592915
+Langaha_madagascariensis,Reptilia,ectothermic,Madagascar leaf-nosed snake,24,0,0,6.90775527898214,5.09355921547329,3.17805383034795
+Larosterna_inca,Aves,endothermic,Inca tern,34,1,1,5.38907173018464,4.8754984526327,3.52636052461616
+Leiothrix_lutea,Aves,endothermic,Pekin robin,42,2,0,3.06292352408091,5.58779599395373,3.73766961828337
+Lemur_catta,Mammalia,endothermic,Ring-tailed lemur,95,27,22,7.97246601620723,5.22567654328369,4.55387689160054
+Leontopithecus_chrysomelas,Mammalia,endothermic,Golden-headed tamarin,85,15,9,6.55108033501058,5.29761801638121,4.44265125649032
+Leptodactylus_fallax,Amphibia,ectothermic,Dominican mountain chicken frog,24,11,8,5.05624580440601,5.78064627394412,3.17805383034795
+Leptodactylus_pentadactylus,Amphibia,ectothermic,Smoky jungle frog,28,2,0,5.12545096876427,5.78047357948163,3.3322045101752
+Leucopsar_rothschildi,Aves,endothermic,Bali mynah,52,6,5,4.51415078867324,5.34627916729444,3.95124371858143
+Lichanura_trivirgata,Reptilia,ectothermic,Rosy boa,24,4,2,7.02108396504858,5.07543660742843,3.17805383034795
+Litocranius_walleri,Mammalia,endothermic,Southern gerenuk,53,5,2,10.5453335440266,6.23439378698256,3.97029191355212
+Lontra_canadensis,Mammalia,endothermic,North americal river otter,42,5,3,8.9980625746715,5.81230164118217,3.73766961828337
+Lophodytes_cucullatus,Aves,endothermic,Hooded merganser,31,0,0,6.41962026499127,4.94372964341482,3.43398720448515
+Lophura_edwardsi,Aves,endothermic,Superb fruit dove,110,0,0,6.99481332041593,4.72964693207448,4.70048036579242
+Lorius_garrulus,Aves,endothermic,Chattering lory,20,0,0,4.96284462918906,5.24161426516358,2.99573227355399
+Lorius_lory,Aves,endothermic,Black capped lory,22,0,0,5.17552807060699,5.25169196023955,3.09104245335832
+Lycaon_pictus,Mammalia,endothermic,Cape hunting dog,58,20,13,10.0010724151167,5.54751126883266,4.06044301054642
+Macaca_nigra,Mammalia,endothermic,Sulawesi crested macaque,25,1,0,8.76405326938487,5.47806702869867,3.2188758248682
+Macroscelides_proboscideus,Mammalia,endothermic,Short-eared elephant shrew,63,4,2,3.64283551581583,5.38376084839305,4.14313472639153
+Macrotus_californicus,Mammalia,endothermic,California leaf-nosed bat,23,0,0,2.45100509758982,6.18455740277217,3.13549421592915
+Mandrillus_sphinx,Mammalia,endothermic,Mandrill,32,8,5,9.81191487933592,5.48304550756128,3.46573590279973
+Mantella_aurantiaca,Amphibia,ectothermic,Golden mantella,304,2,0,3.43398720486675,5.06318848713621,5.71702770140622
+Megascops_asio,Aves,endothermic,Eastern screech-owl,36,4,3,5.19290129387922,4.57996083975443,3.58351893845611
+Megophrys_nasuta,Amphibia,ectothermic,Asian horned frog,23,0,0,5.07517381602609,5.38509868872029,3.13549421592915
+Meleagris_gallopavo,Aves,endothermic,Domestic lavender turkey,71,10,8,8.66412415720778,5.5453014049938,4.26267987704132
+Melopsittacus_undulatus,Aves,endothermic,Budgerigar,477,99,83,3.36695094211615,4.95413719391937,6.16751649088834
+Micromys_minutus,Mammalia,endothermic,Harvest mouse,23,3,2,1.79175946834468,6.01634424363462,3.13549421592915
+Microtus_agrestis,Mammalia,endothermic,Common field vole,62,0,0,3.74950407581452,5.41585716382614,4.12713438504509
+Milvus_milvus,Aves,endothermic,Red kite,36,0,0,6.97706676750965,5.36337830828692,3.58351893845611
+Momotus_momota,Aves,endothermic,Blue-crowned mot mot,24,1,1,4.74458424148025,4.80219198888654,3.17805383034795
+Morelia_spilota,Reptilia,ectothermic,Diamond python,63,3,1,8.29404963934687,5.52647940860102,4.14313472639153
+Morelia_viridis,Reptilia,ectothermic,Green tree python,47,4,2,7.60090246031579,5.50260188995981,3.85014760171006
+Mus_musculus,Mammalia,endothermic,Common mouse,41,16,11,2.77881927191708,5.51070795080427,3.71357206670431
+Muscardinus_avellanarius,Mammalia,endothermic,Common dormouse,52,2,0,3.31418600506336,5.38376084836826,3.95124371858143
+Musophaga_violacea,Aves,endothermic,Violet plaintain eater,22,0,0,5.886104031986,3.57302356656295,3.09104245335832
+Mustela_nigripes,Mammalia,endothermic,Black footed ferret,92,11,7,6.74523635014223,5.83495128078617,4.52178857704904
+Mustela_putorius,Mammalia,endothermic,Ferret,105,66,43,6.81936112800936,5.8376679112765,4.65396035015752
+Naja_annulifera,Reptilia,ectothermic,Egyptian snouted cobra,29,0,0,7.66387725769324,5.11589848246454,3.36729582998647
+Nanger_dama,Mammalia,endothermic,Addra gazelle,50,8,2,11.1982078696625,6.24782887738192,3.91202300542815
+Neophema_splendida,Aves,endothermic,Neophema splendida,33,1,1,3.6532522772266,4.62880000122987,3.49650756146648
+Notophthalmus_perstriatus,Amphibia,ectothermic,Striped newt,30,0,0,4.65396034999648,4.87129734872929,3.40119738166216
+Numida_meleagris,Aves,endothermic,Guinea fowl,54,9,6,7.16935001650245,4.53737024772577,3.98898404656427
+Nymphicus_hollandicus,Aves,endothermic,Cockatiel,70,8,7,4.54976317760395,4.5820756277106,4.24849524204936
+Octodon_degus,Mammalia,endothermic,Degu,25,4,4,5.34710753133014,5.4314492727693,3.2188758248682
+Oryctolagus_cuniculus,Mammalia,endothermic,Domestic rabbit,155,28,22,7.57983202911921,5.3837608483958,5.04342511691925
+Oryx_leucoryx,Mammalia,endothermic,Arabian oryx,27,2,1,11.3816771775174,6.28124735943262,3.29583686600433
+Ovis_canadensis,Mammalia,endothermic,Big horn sheep,30,2,0,11.2204974828245,6.26716787962577,3.40119738166216
+Oxyura_jamaicensis,Aves,endothermic,Ruddy duck,34,2,1,6.41042156188435,4.89814566971351,3.52636052461616
+Padda_oryzivora,Aves,endothermic,Java sparrow,35,4,1,3.21084365357109,5.44619413457424,3.55534806148941
+Pan_troglodytes,Mammalia,endothermic,Chimpanzee,26,10,2,10.6572593547967,5.66814559849383,3.25809653802148
+Panthera_leo,Mammalia,endothermic,Masai lion,60,10,8,11.9922548478528,5.88003272203068,4.0943445622221
+Panthera_onca,Mammalia,endothermic,Jaguar,22,10,9,11.5129254649702,5.87514764577007,3.09104245335832
+Panthera_pardus,Mammalia,endothermic,Leopard,20,6,2,10.9150830105551,5.86730307238987,2.99573227355399
+Panthera_tigris,Mammalia,endothermic,White bengal tiger,71,17,12,11.9988270497088,5.8766602266442,4.26267987704132
+Panthera_uncia,Mammalia,endothermic,Snow leopard,33,12,10,10.6957331823405,5.86946646790375,3.49650756146648
+Pantherophis_guttatus,Reptilia,ectothermic,Corn snake,67,23,16,7.51207124645618,5.1144611620799,4.20469261939097
+Papio_hamadryas,Mammalia,endothermic,Hamadryas baboon,20,3,3,9.6139504276044,5.49520490799813,2.99573227355399
+Paroaria_coronata,Aves,endothermic,Red-crested cardinal,34,1,0,3.63204451755248,5.3242434707333,3.52636052461616
+Pavo_cristatus,Aves,endothermic,Blue peafowl,31,1,0,8.33202197767299,5.5717380674327,3.43398720448515
+Pecari_tajacu,Mammalia,endothermic,Collared peccary,22,1,1,9.96489774872177,6.15200214586891,3.09104245335832
+Pelecanus_occidentalis,Aves,endothermic,Brown pelican,23,2,1,8.13968560343693,5.2885321780732,3.13549421592915
+Peltophryne_lemur,Amphibia,ectothermic,Puerto rican crested toad,226,19,8,4.78749174267239,5.56434331111335,5.42053499927229
+Petaurus_breviceps,Mammalia,endothermic,Pygmy sugar glider,30,12,9,4.66626528644555,5.48537250779689,3.40119738166216
+Phacochoerus_africanus,Mammalia,endothermic,Warthog,34,6,3,11.3205535733591,6.15481110113201,3.52636052461616
+Phascolarctos_cinereus,Mammalia,endothermic,Koala,84,22,21,9.23503298366446,6.21656617503893,4.43081679884331
+Phelsuma_grandis,Reptilia,ectothermic,Madagascar giant day gecko,21,2,2,4.77068462376079,5.2053210703372,3.04452243772342
+Phelsuma_standingi,Reptilia,ectothermic,Standings day gecko,22,0,0,4.53259949418036,5.14813217221112,3.09104245335832
+Phoca_vitulina,Mammalia,endothermic,Atlantic harbor seal,46,2,2,11.5129254649702,5.8405974885407,3.8286413964891
+Phocoena_phocoena,Mammalia,endothermic,Common porpoise,76,0,0,10.868568447645,6.40709089056865,4.33073334028633
+Phrynosoma_asio,Reptilia,ectothermic,Giant horned lizard,51,0,0,4.82430571491061,4.59427809538774,3.93182563272433
+Phyllobates_bicolor,Amphibia,ectothermic,Bi-colour poison dart frog,50,0,0,3.75419892017696,4.99018632705045,3.91202300542815
+Phyllobates_terribilis,Amphibia,ectothermic,Golden poison arrow frog,37,0,0,3.80888224678964,4.99958062055942,3.61091791264422
+Phyllomedusa_bicolor,Amphibia,ectothermic,Giant waxy tree frog,70,0,0,4.84418708656,5.26875302899674,4.24849524204936
+Phyllostomus_discolor,Mammalia,endothermic,Pale spear-nosed bat,23,0,0,3.52929738430675,6.30112509647039,3.13549421592915
+Pipa_pipa,Amphibia,ectothermic,Surinam toad,108,4,1,5.22305488216017,5.79111999363939,4.68213122712422
+Pithecia_pithecia,Mammalia,endothermic,White-faced saki monkey,27,0,0,7.22657258099622,5.32477577082974,3.29583686600433
+Pitta_sordida,Aves,endothermic,Hooded pitta,89,0,0,4.16666522464155,5.41038867552301,4.48863636973214
+Pituophis_catenifer,Reptilia,ectothermic,Albino bull snake,25,9,8,7.93379687418543,5.12878529056539,3.2188758248682
+Platalea_ajaja,Aves,endothermic,Ajaia ajaja,31,9,0,7.30653139799021,5.15182215046346,3.43398720448515
+Plica_plica,Reptilia,ectothermic,Collared tree lizard,33,1,1,5.17614973174074,4.64177277368711,3.49650756146648
+Ploceus_cucullatus,Aves,endothermic,Village weaver,32,0,0,3.58573869549398,5.42074264842189,3.46573590279973
+Podargus_strigoides,Aves,endothermic,Tawny frogmouth,27,2,2,5.73019718117069,4.53576299441207,3.29583686600433
+Pogona_vitticeps,Reptilia,ectothermic,Bearded dragon,59,10,6,5.52146091861741,4.9237560511489,4.07753744390572
+Polihierax_semitorquatus,Aves,endothermic,African pygmy falcon,24,1,1,4.11903717532959,5.12357257755662,3.17805383034795
+Procavia_capensis,Mammalia,endothermic,Rock hyrax,148,12,8,8.0163178996494,5.38376084833796,4.99721227376411
+Procyon_lotor,Mammalia,endothermic,Common raccoon,37,3,2,8.78722032864822,5.60310410369297,3.61091791264422
+Pteroglossus_aracari,Aves,endothermic,Black-necked aracari,54,3,1,5.52210071260876,5.02254015239053,3.98898404656427
+Pteropus_rodricensis,Mammalia,endothermic,Rodrigues fruit bat,61,0,0,5.53654655583593,6.36489418796828,4.11087386417331
+Ptilinopus_melanospilus,Aves,endothermic,Black naped fruit dove,27,0,0,4.52178857625337,4.55537471059257,3.29583686600433
+Ptilinopus_superbus,Aves,endothermic,Mount apo lorikeet,48,0,0,4.77068462376079,4.55625091735009,3.87120101090789
+Puma_concolor,Mammalia,endothermic,Mountain lion,23,7,6,10.851276952328,5.85785588795819,3.13549421592915
+Pusa_hispida,Mammalia,endothermic,Ringed seal,42,3,3,11.4175152796545,5.84172416484461,3.73766961828337
+Python_bivittatus,Reptilia,ectothermic,Indian rock python,24,8,5,9.12695876224146,5.55164765213456,3.17805383034795
+Ramphastos_swainsonii,Aves,endothermic,Chestnut-mandibled toucan,102,4,2,6.47955364449435,5.18287815644718,4.62497281328427
+Ramphocelus_carbo,Aves,endothermic,Silver_beaked tanager,23,0,0,3.25501487102688,5.33468131499206,3.13549421592915
+Rana_sierrae,Amphibia,ectothermic,Sierra nevada yellow-legged frog,76,1,0,4.44265125714818,5.11210237257104,4.33073334028633
+Rana_temporaria,Amphibia,ectothermic,Common frog,73,0,0,4.70048036542809,5.29753479991563,4.29045944114839
+Rangifer_tarandus,Mammalia,endothermic,Caribou,34,4,2,11.3624978456422,6.25517945545313,3.52636052461616
+Rattus_norvegicus,Mammalia,endothermic,Brown rat,354,122,33,5.87689509158576,5.49659150228808,5.86929691313377
+Rhea_americana,Aves,endothermic,Greater rhea,21,3,2,10.0432494948708,6.1974708924918,3.04452243772342
+Rhinella_marina,Amphibia,ectothermic,Cane toad,33,2,2,5.45103845350579,5.61848024870091,3.49650756146648
+Rollulus_rouloul,Aves,endothermic,Roul roul,80,0,0,5.37749816383866,4.53737024777393,4.38202663467388
+Rousettus_aegyptiacus,Mammalia,endothermic,Egyptian fruit bat,57,7,6,4.88431592707307,6.32509894378111,4.04305126783455
+Rousettus_lanosus,Mammalia,endothermic,Long-haired rousette,22,1,1,4.6347289889085,6.33021961566412,3.09104245335832
+Saguinus_imperator,Mammalia,endothermic,Emperor tamarins,35,1,1,5.99146454635282,5.29635153561294,3.55534806148941
+Saguinus_oedipus,Mammalia,endothermic,Tamarin monkey,60,13,9,6.06378520965565,5.2952323623252,4.0943445622221
+Saimiri_boliviensis,Mammalia,endothermic,Black-capped squirrel monkey,34,0,0,6.42162226832364,5.27497729224522,3.52636052461616
+Saimiri_sciureus,Mammalia,endothermic,Common squirrel monkey,71,8,1,6.61096518753282,5.32682712516189,4.26267987704132
+Sanzinia_madagascariensis,Reptilia,ectothermic,Madagscar tree boa,23,4,3,7.55485852047026,5.11748084470664,3.13549421592915
+Sauromalus_ater,Reptilia,ectothermic,Sauromalus obesus,41,3,2,5.4293456289534,4.93349923316858,3.71357206670431
+Sceloporus_cyanogenys,Reptilia,ectothermic,Blue spiny lizard,56,2,2,4.99721227285469,4.68074502102044,4.02535169073515
+Scopus_umbretta,Aves,endothermic,Hammerkop,20,1,0,6.1569789864281,5.26407395118173,2.99573227355399
+Sicalis_flaveola,Aves,endothermic,Saffron finch,20,0,0,2.8267217318075,5.32911910725881,2.99573227355399
+Simalia_boeleni,Reptilia,ectothermic,Boelens python,25,1,1,7.79975331750729,5.47616458580919,3.2188758248682
+Sistrurus_miliarius,Reptilia,ectothermic,Pigmy rattlesnake,21,2,1,6.68835471330508,5.07609167190386,3.04452243772342
+Spheniscus_demersus,Aves,endothermic,Black-footed penguin,210,0,0,8.04882342663223,5.31788497689853,5.34710753071747
+Spheniscus_humboldti,Aves,endothermic,Humboldt penguin,376,4,2,8.38169186043426,5.33771263126679,5.9295891433899
+Spilotes_pullatus,Reptilia,ectothermic,Tiger rat snake,21,2,2,8.18868912498004,5.18746967640173,3.04452243772342
+Stellagama_stellio,Reptilia,ectothermic,Hardun sling-tailed agama,38,2,2,5.34710753133014,4.61640229624362,3.63758615972639
+Suricata_suricatta,Mammalia,endothermic,Slender tail meerkat,133,21,16,6.58686107284519,5.55068953519254,4.89034912822175
+Sus_scrofa,Mammalia,endothermic,Guinea forest hog,66,7,4,11.5233915040046,6.15874922157864,4.18965474202643
+Sylvilagus_transitionalis,Mammalia,endothermic,New england cottontail,35,2,1,6.48722729253472,5.40700020500891,3.55534806148941
+Tadorna_radjah,Aves,endothermic,Radjah shelduck,41,0,0,6.78583620055416,4.93647300120442,3.71357206670431
+Taeniopygia_guttata,Aves,endothermic,Timor zebra finch,29,1,0,2.48823444006072,5.28538951700705,3.36729582998647
+Tauraco_erythrolophus,Aves,endothermic,Red crested turaco,24,0,0,5.56543952483017,3.55443026950431,3.17805383034795
+Theristicus_melanopis,Aves,endothermic,Black faced ibis,72,0,0,7.32974968977188,5.1637416582717,4.27666611901606
+Thraupis_episcopus,Aves,endothermic,Blue gray tanager,26,1,0,3.55534806068287,5.33377713066737,3.25809653802148
+Tiliqua_scincoides,Reptilia,ectothermic,Eastern blue tongued skink,25,6,4,5.94017125360276,4.94673738117964,3.2188758248682
+Trachycephalus_resinifictrix,Amphibia,ectothermic,Mission-eyed tree frog,69,6,4,4.47733681413243,5.37793283426866,4.23410650459726
+Tragelaphus_strepsiceros,Mammalia,endothermic,Kudu,48,3,0,12.2713967965801,6.29497598966926,3.87120101090789
+Tribolonotus_pseudoponceleti,Reptilia,ectothermic,False poncelet's helmet skink,23,0,0,4.33073333963979,4.93117830992893,3.13549421592915
+Trichoglossus_haematodus,Aves,endothermic,Coconut lorikeet,190,5,3,4.72959776508876,5.24369719114961,5.24702407216049
+Tropidolaemus_wagleri,Reptilia,ectothermic,Wagler's pit viper,34,1,1,6.82437366924742,5.06276958948667,3.52636052461616
+Tympanuchus_cupido,Aves,endothermic,Greater prairie-chicken,20,1,0,6.76858516165731,4.99643213730909,2.99573227355399
+Typhlonectes_natans,Amphibia,ectothermic,Rio couca caecilian,40,0,0,6.42162226832364,5.76093618110785,3.68887945411394
+Uraeginthus_bengalus,Aves,endothermic,Red cheeked cordon bleu,28,0,0,2.29253475806722,5.29028320521926,3.3322045101752
+Uromastyx_geyri,Reptilia,ectothermic,Dabb lizard,20,0,0,5.28320372836591,4.64368438250861,2.99573227355399
+Uroplatus_phantasticus,Reptilia,ectothermic,Satanic leaf-tailed gecko,55,2,2,4.45550941038911,5.06549236447337,4.00733318523247
+Uroplatus_sikorae,Reptilia,ectothermic,Leaf tailed gecko,64,2,1,4.81218435436067,5.13990005409507,4.15888308335967
+Ursus_maritimus,Mammalia,endothermic,Polar bear,26,8,5,12.8706927716508,5.8802955906008,3.25809653802148
+Varanus_beccarii,Reptilia,ectothermic,Varanus beccarii,31,8,5,5.82894561751291,4.92006950081035,3.43398720448515
+Varanus_prasinus,Reptilia,ectothermic,Emerald monitor,41,4,2,5.73657229786079,4.92055201207842,3.71357206670431
+Varanus_salvadorii,Reptilia,ectothermic,Varanus salvadorii,23,1,0,6.74523635014223,4.92786790453803,3.13549421592915
+Varecia_variegata,Mammalia,endothermic,Red/black ruffed lemur,48,16,11,8.11671562473427,5.23476586031203,3.87120101090789
+Vini_australis,Aves,endothermic,Blue crowned lory,27,0,0,4.00733318409443,5.23400521439081,3.29583686600433
+Vulpes_zerda,Mammalia,endothermic,Fennec fox,22,7,6,7.00306545842214,5.53387779737675,3.09104245335832
+Zalophus_californianus,Mammalia,endothermic,California sealion,57,11,8,11.2897819136746,5.97443921230081,4.04305126783455
+Zenaida_graysoni,Aves,endothermic,Soccoro dove,35,1,1,5.25749537271038,4.56298235349192,3.55534806148941

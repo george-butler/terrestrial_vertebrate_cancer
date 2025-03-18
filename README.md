@@ -12,6 +12,7 @@
   <img width="380" height="355" src="/example_image/exceptional_birds_and_mammals.png">
 </p>
 
+Our paper is available [here](https://www.pnas.org/doi/10.1073/pnas.2422861122)
 
 All code is written in R with the majority of the scripts utilizing the [MCMCglmm](https://cran.r-project.org/web/packages/MCMCglmm/index.html) library to fit Multivariate Phylogenetic Generalized Linear Mixed Models (MPGLMMs). 
 
